@@ -1,0 +1,5 @@
+{
+  "name": " sidxnt.ai",
+  "description": "An AI-powered web application featuring a conversational chat agent and a text-to-image generator, built with React and the Gemini API.",
+  "requestFramePermissions": []
+}
